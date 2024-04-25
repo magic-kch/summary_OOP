@@ -8,6 +8,9 @@
 "access_token_vk": "Ваш_токен_ВКонткте"
 }
 `
+
 2. Необходиму установить все зависимости из файла **requirements.txt**
 
 `pip install -r requirements.txt`
+
+3. И следовать инструкциям скрипта
